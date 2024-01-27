@@ -10,4 +10,4 @@ pasos para descargarlo
 
 2.Dar clic en View raw
 
-Comenzara la descarga del .zip
+3.Comenzara la descarga del .zip
